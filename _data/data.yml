@@ -63,7 +63,7 @@ education:
           - Bullet point 
 
     - degree: High Parallel Computing
-      university: CINECA
+      university: [CINECA](https://www.cineca.it/)
       time: 2012 - 10 - 08
       details: |
         CINECA crash course on
