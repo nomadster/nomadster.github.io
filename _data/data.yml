@@ -53,22 +53,26 @@ education:
       university: University of Pisa
       time: 2007 - 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
+        [Computer Science Degree](https://www.di.unipi.it/en/). TODO write something
+        My thesis work consisted in porting an algebraic multigrid algorithm from Matlab 
+        to the [Operations Research Group](http://www.di.unipi.it/optimize/) framework, using C++.
+        I graduated with a score of 101/110.
+        
+        Relevant courses for which I had a project:
+        
+          - Logistic:  modeled a small Network Design problem solved using Sage Math + Python;
+          - CMS: had the chance to play with LaTeX typesetting system which I used to write a small essay;
+          - Network Programming: developed a GNU-tella like, multithreaded, distributed file sharing system using Java and Java-RMI;
+          - Advanced Programming: developed a multithreaded client-server program simulating a car-sharing system, using BASH, C and POSIX threads;
+          - ESP: developed numerical code in C to compute 1.000.000! using FFT to speed up multiplication.
+          
     - degree: High Parallel Computing
       university: CINECA
-      time: 2012 - 10 - 08
+      time: 08/10/2010
       details: |
-        [CINECA](https://www.cineca.it/) crash course on
-          - Introduction to OpenMP programming
-          - Introduction to Parallel Programming and Message Passing Paradigm
+        [CINECA](https://www.cineca.it/) crash courses on:
+          - Introduction to OpenMP programming;
+          - Introduction to Parallel Programming and Message Passing Paradigm.
 
 experiences:
     - role: Lead Developer
