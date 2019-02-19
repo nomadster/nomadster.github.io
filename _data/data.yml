@@ -58,6 +58,7 @@ education:
         scientific and methodological preparation. 
         My [thesis work](https://github.com/nomadster/lamg_cpp) consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
         the [Operations Research Group](http://www.di.unipi.it/optimize/) framework, which is written using C++.
+        
         I graduated with a score of 101 out of 110.
         
         Relevant courses for which I developed a project:
