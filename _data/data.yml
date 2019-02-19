@@ -63,10 +63,10 @@ education:
           - Bullet point 
 
     - degree: High Parallel Computing
-      university: [CINECA](https://www.cineca.it/)
+      university: CINECA
       time: 2012 - 10 - 08
       details: |
-        CINECA crash course on
+        [CINECA](https://www.cineca.it/) crash course on
           - Introduction to OpenMP programming
           - Introduction to Parallel Programming and Message Passing Paradigm
 
