@@ -15,7 +15,7 @@ sidebar:
     email: nomadster@gmail.com
     phone: +39 349 6132840
     website: nomadster.github.io #do not add http://
-    linkedin: alensi
+    linkedin: alessandrolensi
     github: nomadster
     gitlab:
     bitbucket:
@@ -31,13 +31,10 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Trekking
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Photography
         link:
 
 career-profile:
@@ -52,9 +49,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Computer Science
+      university: University of Pisa
+      time: 2007 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -65,18 +62,13 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: High Parallel Computing
+      university: CINECA
+      time: 2012 - 10 - 08
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        CINECA crash course on
+          - Introduction to OpenMP programming
+          - Introduction to Parallel Programming and Message Passing Paradigm
 
 experiences:
     - role: Lead Developer
