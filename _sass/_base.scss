@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6  {
 
 a {
     color: darken($theme-color, 15%);
-    text-decoration: underline dotted
+    text-decoration: underline dotted;
     &:hover {
         text-decoration: none;
         color: darken($theme-color, 30%);
