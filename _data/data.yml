@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alessandro Lensi
-    tagline: Full Stack Deeloper
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,18 +53,20 @@ education:
       university: University of Pisa
       time: 2007 - 2013
       details: |
-        [Computer Science Degree](https://www.di.unipi.it/en/). TODO write something
-        My thesis work consisted in porting an algebraic multigrid algorithm from Matlab 
-        to the [Operations Research Group](http://www.di.unipi.it/optimize/) framework, using C++.
-        I graduated with a score of 101/110.
+        The [tree-year undergraduate programme](https://www.di.unipi.it/en/) in Computer Science aims to integrate 
+        the comprehension of information technology and its application in problem solving activities with a solid 
+        scientific and methodological preparation. 
+        My [thesis work](https://github.com/nomadster/lamg_cpp) consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
+        the [Operations Research Group](http://www.di.unipi.it/optimize/) framework, which is written using C++.
+        I graduated with a score of 101 out of 110.
         
-        Relevant courses for which I had a project:
+        Relevant courses for which I developed a project:
         
           - Logistic:  modeled a small Network Design problem solved using Sage Math + Python;
-          - CMS: had the chance to play with LaTeX typesetting system which I used to write a small essay;
-          - Network Programming: developed a GNU-tella like, multithreaded, distributed file sharing system using Java and Java-RMI;
-          - Advanced Programming: developed a multithreaded client-server program simulating a car-sharing system, using BASH, C and POSIX threads;
-          - ESP: developed numerical code in C to compute 1.000.000! using FFT to speed up multiplication.
+          - CMS: had the chance to play with LaTeX typesetting system which I used to write a small essay; 
+          - [Network Programming](https://github.com/nomadster/LPR): developed a GNU-tella like, multithreaded, distributed file sharing system using Java and Java-RMI;
+          - [Advanced Programming](https://github.com/nomadster/SOL): developed a multithreaded client-server program simulating a car-sharing system, using BASH, C and POSIX threads;
+          - [ESP](https://github.com/nomadster/ESP): developed numerical code in C to compute 1.000.000! using FFT to speed up multiplication.
           
     - degree: High Parallel Computing
       university: CINECA
