@@ -40,11 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Lorem impsum
 
       Second paragraph if required.
 
@@ -53,7 +49,7 @@ education:
       university: University of Pisa
       time: 2007 - 2013
       details: |
-        The [tree-year undergraduate programme](https://www.di.unipi.it/en/) in Computer Science aims to integrate 
+        The <a href="https://www.di.unipi.it/en/" target="_blank">tree-year undergraduate programme</a> in Computer Science aims to integrate 
         the comprehension of information technology and its application in problem solving activities with a solid 
         scientific and methodological preparation. 
         My [thesis work](https://github.com/nomadster/lamg_cpp) consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
