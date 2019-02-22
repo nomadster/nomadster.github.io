@@ -78,9 +78,26 @@ education:
           - Introduction to Parallel Programming and Message Passing Paradigm.
 
 experiences:
+    - role: Software Developer
+      time: 2015 - Present
+      company: Apparound, https://www.apparound.com
+      details: |
+        Founded in 2008, Apparound is an Italian company based in Pisa, at the Cittadella dell’Innovazione in Montacchiello.
+        We develop a cloud-based mobile app that digitizes content and sales processes. Developed to help companies improve 
+        sales productivity, Apparound simplifies the sales process by bringing together marketing content, 
+        offer configurators and more in a single solution.
+        
+        Projects i worked on:
+          - A
+          - B
+            
+         My daily tasks includes:
+           - C
+           - D
+      
     - role: Node.js developer
       time: 2014 - 2015
-      company: Gruppo META, http://www.gruppometa.it
+      company: Gruppo META, https://www.gruppometa.it
       details: |
         Gruppo META is a company that deals with digital publishing, knowledge management and cultural heritage.
         I partecipated in the building of the [Ubidictionary](https://www.ubidictionary.com) portal.
