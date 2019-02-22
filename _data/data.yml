@@ -52,8 +52,8 @@ education:
         The <a href="https://www.di.unipi.it/en/" target="_blank">tree-year undergraduate programme</a> in Computer Science aims to integrate 
         the comprehension of information technology and its application in problem solving activities with a solid 
         scientific and methodological preparation. 
-        My [thesis work](https://github.com/nomadster/lamg_cpp) consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
-        the [Operations Research Group](http://www.di.unipi.it/optimize/) framework, which is written using C++.
+        My <a href="https://github.com/nomadster/lamg_cpp" target="_blank">thesis work</a> consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
+        the <a href="http://www.di.unipi.it/optimize/" target="_blank">Operations Research Group</a> framework, which is written using C++.
         
         I graduated with a score of 101 out of 110.
         
@@ -61,15 +61,15 @@ education:
         
           - Logistic:  modeled a small Network Design problem solved using Sage Math + Python;
           - CMS: had the chance to play with LaTeX typesetting system which I used to write a small essay; 
-          - [Network Programming](https://github.com/nomadster/LPR): developed a GNU-tella like, multithreaded, distributed file sharing system using Java and Java-RMI;
-          - [Advanced Programming](https://github.com/nomadster/SOL): developed a multithreaded client-server program simulating a car-sharing system, using BASH, C and POSIX threads;
-          - [ESP](https://github.com/nomadster/ESP): developed numerical code in C to compute 1.000.000! using FFT to speed up multiplication.
+          - <a href="https://github.com/nomadster/LPR" target="_blank">Network Programming</a>: developed a GNU-tella like, multithreaded, distributed file sharing system using Java and Java-RMI;
+          - <a href="https://github.com/nomadster/SOL" target="_blank">Advanced Programming</a>: developed a multithreaded client-server program simulating a car-sharing system, using BASH, C and POSIX threads;
+          - <a href="https://github.com/nomadster/ESP" target="_blank">ESP</a>: developed numerical code in C to compute 1.000.000! using FFT to speed up multiplication.
           
     - degree: High Parallel Computing
       university: CINECA
       time: 08/10/2010
       details: |
-        [CINECA](https://www.cineca.it/) crash courses on:
+        <a href="https://www.cineca.it/" target="_blank">CINECA</a> crash courses on:
           - Introduction to OpenMP programming;
           - Introduction to Parallel Programming and Message Passing Paradigm.
 
@@ -97,7 +97,7 @@ experiences:
       company: Gruppo META, https://www.gruppometa.it
       details: |
         Gruppo META is a company that deals with digital publishing, knowledge management and cultural heritage.
-        I partecipated in the building of the [Ubidictionary](https://www.ubidictionary.com) portal.
+        I partecipated in the building of the <a href="https://www.ubidictionary.com" target="_blank">Ubidictionary</a> portal.
         Ubidictionary is a platform for the collection and consultation of dictionaries, grammar and exercise books and 
         technical-scientific manuals in digital format, integrated with support tools for translating and language production.
         
@@ -108,7 +108,7 @@ experiences:
           - Defining the Markup metalanguage used to import and index the dictionaries
           - Building the parser, importer and indexer of the dictionaries
           
-        I also partecipated in the [iSLe](https://www.gruppometa.it/en/isle) project.
+        I also partecipated in the <a href="https://www.gruppometa.it/en/isle" target="_blank">iSLe</a> project.
         The iSLe project aims to rethink the process of generation, use and distribution of content for
         didactics through the implementation of a new type of ebook for scholastic publishing and professional platforms.
         
@@ -186,5 +186,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
