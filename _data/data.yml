@@ -83,9 +83,10 @@ experiences:
       company: Gruppo META, http://www.gruppometa.it
       details: |
         Gruppo META is a company that deals with digital publishing, knowledge management and cultural heritage.
-        I partecipated in the building of the [Ubidictionary](www.ubidictionary.com) portal.
+        I partecipated in the building of the [Ubidictionary](https://www.ubidictionary.com) portal.
         Ubidictionary is a platform for the collection and consultation of dictionaries, grammar and exercise books and 
         technical-scientific manuals in digital format, integrated with support tools for translating and language production.
+        
         My daily tasks included:
           - Building and maintaining the in-house node.js microframework, built on top of KOA.js
           - Design and development of HTTP API and backend services using the in house microframework
@@ -93,10 +94,14 @@ experiences:
           - Defining the Markup metalanguage used to import and index the dictionaries
           - Building the parser, importer and indexer of the dictionaries
           
-        I also partecipated in the ISLE project
-          - TODO servizi http per ISLE
-          - Metalinguaggio per definire eserciziari
-
+        I also partecipated in the [iSLe](https://www.gruppometa.it/en/isle) project.
+        The iSLe project aims to rethink the process of generation, use and distribution of content for
+        didactics through the implementation of a new type of ebook for scholastic publishing and professional platforms.
+        
+        My daily tasks included:
+          - Using the in-house node.js microframework to develop HTTP API and backend services
+          - Creation of the Markup metalanguage used to define excercises, with semantic
+          
 projects:
     title: Projects
     intro: >
