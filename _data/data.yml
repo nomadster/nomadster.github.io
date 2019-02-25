@@ -115,7 +115,23 @@ experiences:
         My daily tasks included:
           - Using the in-house node.js microframework to develop HTTP API and backend services
           - Creation of the Markup metalanguage used to define excercises, with semantic
-          
+
+    - role: Tutor
+      time: 2009 - 2013
+      company: Self employed
+      details: |
+        Private lessons of Arithmetic, Calculus, Computer Science and Physics to students of any graduated
+
+    - role: Quality inspector and controller
+      time: 2007 - 2009
+      company: Campolonghi Italia, http://www.campolonghi.it
+      details: |
+        After a brief and educative period as a stone worker I was sent
+        in a one year trip across Spain to deal with the company's local 
+        suppliers, having the responsibility to check for the quality of 
+        the stone processing.
+
+
 projects:
     title: Projects
     intro: >
