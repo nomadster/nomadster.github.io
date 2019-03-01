@@ -49,9 +49,6 @@ education:
       university: University of Pisa
       time: 2007 - 2013
       details: |
-        The <a href="https://www.di.unipi.it/en/" target="_blank">tree-year undergraduate programme</a> in Computer Science aims to integrate 
-        the comprehension of information technology and its application in problem solving activities with a solid 
-        scientific and methodological preparation. 
         My <a href="https://github.com/nomadster/lamg_cpp" target="_blank">thesis work</a> consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
         the <a href="http://www.di.unipi.it/optimize/" target="_blank">Operations Research Group</a> framework, which is written using C++.
         
@@ -76,19 +73,12 @@ education:
     - degree: High School Diploma
       university: Liceo Scientifico M. Buonarroti, Forte dei Marmi
       time: 1997 - 2002
-      details: |
-        I graduated with a score of 68 out of 100
 
 experiences:
     - role: Software Developer
       time: 2015 - Present
       company: Apparound, https://www.apparound.com
-      details: |
-        Founded in 2008, Apparound is an Italian company based in Pisa, at the Cittadella dell’Innovazione in Montacchiello.
-        We develop a cloud-based mobile app that digitizes content and sales processes. Developed to help companies improve 
-        sales productivity, Apparound simplifies the sales process by bringing together marketing content, 
-        offer configurators and more in a single solution.
-        
+      details: |        
         Projects i worked on:
           - A
             - A1
@@ -104,8 +94,6 @@ experiences:
       details: |
         Gruppo META is a company that deals with digital publishing, knowledge management and cultural heritage.
         I partecipated in the building of the <a href="https://www.ubidictionary.com" target="_blank">Ubidictionary</a> portal.
-        Ubidictionary is a platform for the collection and consultation of dictionaries, grammar and exercise books and 
-        technical-scientific manuals in digital format, integrated with support tools for translating and language production.
         
         My daily tasks included:
           - Building and maintaining the in-house node.js microframework, built on top of KOA.js
@@ -115,8 +103,6 @@ experiences:
           - Building the parser, importer and indexer of the dictionaries
           
         I also partecipated in the <a href="https://www.gruppometa.it/en/isle" target="_blank">iSLe</a> project.
-        The iSLe project aims to rethink the process of generation, use and distribution of content for
-        didactics through the implementation of a new type of ebook for scholastic publishing and professional platforms.
         
         My daily tasks included:
           - Using the in-house node.js microframework to develop HTTP API and backend services
@@ -136,6 +122,10 @@ experiences:
         in a one year trip across Spain to deal with the company's local 
         suppliers, having the responsibility to check for the quality of 
         the stone processing.
+
+    - role: Other experiences
+      time: 2002 - 2007
+      details: todo
 
 
 projects:
