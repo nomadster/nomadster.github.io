@@ -50,7 +50,7 @@ education:
       time: 2007 - 2013
       details: |
         My <a href="https://github.com/nomadster/lamg_cpp" target="_blank">thesis work</a> consisted in porting an algebraic multigrid algorithm from its Matlab implementation into
-        the <a href="http://www.di.unipi.it/optimize/" target="_blank">Operations Research Group</a> framework, which is written using C++.
+        the <a href="http://www.di.unipi.it/optimize/" target="_blank">Operations Research Group</a> framework, using C++.
         
         I graduated with a score of 101 out of 110.
         
