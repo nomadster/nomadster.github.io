@@ -79,14 +79,17 @@ experiences:
       time: 2015 - Present
       company: Apparound, <a href="http://www.apparound.com" target="_blank">www.apparound.com</a>
       details: |        
-        Apparound is a company that delivers a B2B solution to digitise the selling processa
+        Apparound is a company that delivers a B2B solution to digitise the selling process.
         
-        My daily tasks included:
+        Main tasks:
+          - Ported the internal app store to ASP.NET
           - Maintained and improved the backoffice portal using AngularJS and ASP.NET
           - Developed and improved webapp version of main product application 
             and its modules and features, using ReactJS + Redux for the frontend and 
             ASP.Net and Node.JS for the backend
-          - todo
+          - Contributed to develop a multitenant cloud infrastructure, porting the on premise solution
+          - Developed a ASP.NET Core solution to handle digital signatures of contract
+          - Worked to improve the product in an agile environment using Scrum
       
     - role: Node.js developer
       time: 2014 - 2015
