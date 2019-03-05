@@ -134,9 +134,10 @@ projects:
     assignments:
       - title: Authenticated Ladder
         link: "https://github.com/SpasmodicSoftware/AuthenticatedLadder"
-        tagline: "Gao"
-        technologies: ASP.NET Core 2.2, JWT, travis.ci, coveralls and docker
-        
+        tagline: "Developed an opensource ladder for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
+        using ASP.NET Core for the webapi, JWT to sign the results and travis.ci+coveralls+docker for the continuous integration/delivery.
+        The project is automatically deployed with Fabric on a DigitalOcean droplet"
+
 skills:
     title: Skills &amp; Tools
 
