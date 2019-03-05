@@ -77,20 +77,20 @@ education:
 experiences:
     - role: Software Developer
       time: 2015 - Present
-      company: Apparound, https://www.apparound.com
+      company: Apparound, Montacchiello - Pisa
       details: |        
-        Projects i worked on:
-          - A
-            - A1
-          - B
-            
-         My daily tasks includes:
-           - C
-           - D
+        Apparound is a company that delivers a B2B solution to digitise the selling process.
+        
+        My daily tasks included:
+          - Maintained and improved the backoffice portal using AngularJS and ASP.NET
+          - Developed and improved webapp version of main product application 
+            and its modules and features, using ReactJS + Redux for the frontend and 
+            ASP.Net and Node.JS for the backend
+          - todo
       
     - role: Node.js developer
       time: 2014 - 2015
-      company: Gruppo META, https://www.gruppometa.it
+      company: Gruppo META, Ospedaletto - Pisa
       details: |
         Gruppo META is a company that deals with digital publishing, knowledge management and cultural heritage.
         I partecipated in the building of the <a href="https://www.ubidictionary.com" target="_blank">Ubidictionary</a> portal.
@@ -122,11 +122,6 @@ experiences:
         in a one year trip across Spain to deal with the company's local 
         suppliers, having the responsibility to check for the quality of 
         the stone processing.
-
-    - role: Other experiences
-      time: 2002 - 2007
-      details: todo
-
 
 projects:
     title: Projects
