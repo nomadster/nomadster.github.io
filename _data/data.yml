@@ -89,7 +89,7 @@ experiences:
             ASP.Net and Node.JS for the backend
           - Contributed to develop a multitenant cloud infrastructure, porting the on premise solution
           - Developed a ASP.NET Core solution to handle digital signatures of contract
-          - Currently working on improving the product in an agile environment, using Scrum
+          - Currently working on improving the product in an agile environment, using the .NET Framework, AngularJs and Scrum
       
     - role: Node.js developer
       time: 2014 - 2015
