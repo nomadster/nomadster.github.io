@@ -137,7 +137,7 @@ projects:
         tagline: |
           Developed an opensource ladder for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
           using ASP.NET Core for the webapi, JWT to sign the results and travis.ci+coveralls+docker for the continuous integration/delivery.
-          The project is automatically deployed with Fabric on a DigitalOcean droplet
+          The project is automatically deployed with Fabric on a DigitalOcean droplet. It has 98.225% of code coverage, for what is worth :)
 
 skills:
     title: Skills &amp; Tools
