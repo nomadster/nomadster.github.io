@@ -77,9 +77,9 @@ education:
 experiences:
     - role: Software Developer
       time: 2015 - Present
-      company: Apparound, Montacchiello - Pisa
+      company: Apparound, <a href="http://www.apparound.com" target="_blank">www.apparound.com</a>
       details: |        
-        Apparound is a company that delivers a B2B solution to digitise the selling process.
+        Apparound is a company that delivers a B2B solution to digitise the selling processa
         
         My daily tasks included:
           - Maintained and improved the backoffice portal using AngularJS and ASP.NET
