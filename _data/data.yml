@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nomadster@gmail.com
+    email: alessandro.lensi@gmail.com
     phone: +39 349 6132840
     website: nomadster.github.io #do not add http://
     linkedin: alessandrolensi
@@ -89,7 +89,7 @@ experiences:
             ASP.Net and Node.JS for the backend
           - Contributed to develop a multitenant cloud infrastructure, porting the on premise solution
           - Developed a ASP.NET Core solution to handle digital signatures of contract
-          - Worked to improve the product in an agile environment using Scrum
+          - Currently working on improving the product in an agile environment, using Scrum
       
     - role: Node.js developer
       time: 2014 - 2015
@@ -175,3 +175,7 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+ 
