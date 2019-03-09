@@ -136,8 +136,13 @@ projects:
         link: "https://github.com/SpasmodicSoftware/AuthenticatedLadder"
         tagline: |
           Developed an opensource ladder for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
-          using ASP.NET Core for the webapi, JWT to sign the results and travis.ci+coveralls+docker for the continuous integration/delivery.
+          using ASP.NET Core and EntityFramework Core for the backend, JWT to sign the payload and travis.ci+coveralls+docker for the continuous integration.
           The project is automatically deployed with Fabric on a DigitalOcean droplet. It has 98.225% of code coverage, for what is worth :)
+    
+    assignment:
+      - title: foo
+        link: google
+        tagline: |
 
 skills:
     title: Skills &amp; Tools
@@ -160,7 +165,4 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
- 
+        
