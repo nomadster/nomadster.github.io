@@ -138,12 +138,12 @@ projects:
           Developed an opensource ladder for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
           using ASP.NET Core and EntityFramework Core for the backend, JWT to sign the payload and travis.ci+coveralls+docker for the continuous integration.
           The project is automatically deployed with Fabric on a DigitalOcean droplet. It has 98.225% of code coverage, for what is worth :)
-    
-    assignment:
-      - title: foo
-        link: google
-        tagline: |
+      
+      - title: Quattro
+        link: "https://nomadster.github.io/assets/images/spunball.png"
 
+      - title: Spunball
+        link: ""
 skills:
     title: Skills &amp; Tools
 
