@@ -147,7 +147,7 @@ projects:
       - title: Camouman
         link: "https://play.google.com/store/apps/details?id=com.me.camuman"
         tagline: |
-          TODO
+          A free game for Android developed using <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a>.
 
       - title: Spunball
         link: "assets/images/spunball.png"
@@ -160,21 +160,29 @@ skills:
     title: Skills &amp; Tools
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C# & VisualStudio
+        level: 4 years
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 6 years
 
-      - name: Angular
-        level: 98%
+      - name: AngularJS
+        level: 4 years
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: HTML & CSS
+        level: Basic knowledge
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C
+        level: Two projects at university
+      
+      - name: C++
+        level: Two project at university + developed my thesis
+      
+      - name: Linux and Bash
+        level: I've been thinkering with Linux since I was 14 (former slackware and gentoo lover)
+      
+      - name: Java
+        level: Two project at university + used it in some spare time project
+      
+      
         
