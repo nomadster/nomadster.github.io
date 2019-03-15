@@ -1,19 +1,19 @@
 {% assign interests = site.data.data.sidebar.interests %}
 {% if interests %}
 <section class="section projects-section">
-    <h2 class="section-title">
-        <span class="fa-stack fa-xs">
-          <i class="fas fa-circle fa-stack-2x"></i>
-          <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
-        </span>
-        Interests
-    </h2>
-    {% for interest in interests %}
-    <div class="item">
-        <span class="project-title"> {{interest.item}} </span>
-        -
-        <span class="project-tagline">{{interest.description}}</span> 
-    </div>
-    {% endfor %}
+  <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      </span>
+      Interests
+  </h2>
+  {% for interest in interests %}
+  <div class="item">
+      <span class="project-title"> {{interest.item}} </span>
+      -
+      <span class="project-tagline">{{interest.description}}</span> 
+  </div>
+  {% endfor %}
 </section><!--//interests-->
 {% endif %}
