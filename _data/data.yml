@@ -160,22 +160,25 @@ skills:
     title: Skills &amp; Tools
 
     toolset:
-      - name: C# & VisualStudio
+      - name: Testing
+        level: Huge fan
+
+      - name: .NET/.NET Core, C# & VisualStudio
         level: 4 years
 
-      - name: Javascript
-        level: 6 years
+      - name: Node.js
+        level: 3 years
 
       - name: AngularJS
         level: 4 years
 
       - name: HTML & CSS
-        level: Basic knowledge
+        level: Ability to edit and modify. Never did something from 0
 
-      - name: C
+      - name: C (with lgcov and valgrind)
         level: Two projects at university
       
-      - name: C++
+      - name: C++ (plus <a href="https://bitbucket.org/blaze-lib/blaze" target="_blank">Blazelib</a>)
         level: Two project at university + developed my thesis
       
       - name: Linux and Bash
