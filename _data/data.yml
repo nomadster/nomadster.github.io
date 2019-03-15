@@ -36,13 +36,7 @@ sidebar:
 
       - item: Photography
         link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Lorem impsum
-
-      Second paragraph if required.
+          
 
 education:
     - degree: BSc in Computer Science
@@ -135,22 +129,30 @@ projects:
       - title: Authenticated Ladder
         link: "https://github.com/SpasmodicSoftware/AuthenticatedLadder"
         tagline: |
-          Developed an opensource ladder for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
+          Developed an opensource ranking for the <a href="http://www.mnemosynegames.com/" target="_blank">Demoniaca</a> video game, 
           using ASP.NET Core and EntityFramework Core for the backend, JWT to sign the payload and travis.ci+coveralls+docker for the continuous integration.
           The project is automatically deployed with Fabric on a DigitalOcean droplet. It has 98.225% of code coverage, for what is worth :)
       
       - title: Quattro
         link: "./assets/images/gameplay.jpg"
         tagline: |
-          A 2D pixel art platform concept developed in 48 hours during Internet Festival 2014's Game Jam using Unity 3D.
-          The game has been selected for the final, but we never finished it. The game has also been awarded the 
-          <a href="./assets/images/giuria.png" target="_blank">popular jury award</a>
+          A 2D retro pixel art platform concept developed in 48 hours during Internet Festival 2014's Game Jam using Unity 3D.
+          The game has been selected for the <a href="https://www.quinewscuoio.it/bancadinamica-in-tanti-all-internet-festival.htm" target="_blank">final</a>, but we never finished it. 
+          The game has also been awarded the <a href="./assets/images/giuria.png" target="_blank">popular jury award</a>
+          The game rights have been sold to Gamera Interactive and the game hit the market as <a href="http://www.gameragames.net/p/unit-4.html" target="_blank">Unit 4</a>
+
+      - title: Camouman
+        link: "https://play.google.com/store/apps/details?id=com.me.camuman"
+        tagline: |
+          TODO
 
       - title: Spunball
         link: "assets/images/spunball.png"
         tagline: |
           Experiments with <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a> with the intent to produce a 2D platform suitable for Android devices.
           We also developed our own level editor exploiting SVG's XML structure.
+
+
 skills:
     title: Skills &amp; Tools
 
