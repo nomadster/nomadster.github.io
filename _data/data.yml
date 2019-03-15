@@ -32,10 +32,13 @@ sidebar:
 
     interests:
       - item: Trekking
-        link:
+        description: ...
 
       - item: Photography
-        link:
+        description: ...
+      
+      - item: Sailing
+        description: ...
           
 
 education:
