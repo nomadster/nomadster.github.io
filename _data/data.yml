@@ -180,8 +180,8 @@ skills:
       - name: C 
         level: Two projects at university. Used lgcov and valgrind
       
-      - name: C++ (plus <a href="https://bitbucket.org/blaze-lib/blaze" target="_blank">Blazelib</a>)
-        level: Two project at university + developed my thesis
+      - name: C++
+        level: Two project at university + developed my thesis using <a href="https://bitbucket.org/blaze-lib/blaze" target="_blank">Blazelib</a>
       
       - name: Linux and Bash
         level: I've been thinkering with Linux since I was 14 (former slackware and gentoo lover)
