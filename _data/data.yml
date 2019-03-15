@@ -153,6 +153,9 @@ skills:
     toolset:
       - name: Testing
         level: Huge fan
+      
+      - name: Agile/Scrum
+        level: 4 years
 
       - name: Git 
         level: 8 years
