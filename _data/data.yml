@@ -30,19 +30,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-    aboutme: Born in Pietrasanta (LU) on 10/11/1983, I currently work and live in Pisa.
-
-    interests:
-      - item: Trekking
-        description: ...
-
-      - item: Photography
-        description: ...
-      
-      - item: Sailing
-        description: ...
+    aboutme: Born in Pietrasanta (LU) on 10/11/1983, currently working and living in Pisa. In my spare time I love to trek on the apuan alps, take pictures of small animals and insects and sail on my 1980s Bianchi and Cecchi Flying Dutchman.
           
-
 education:
     - degree: BSc in Computer Science
       university: University of Pisa
