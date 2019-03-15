@@ -138,7 +138,7 @@ projects:
       - title: Camouman
         link: "https://play.google.com/store/apps/details?id=com.me.camuman"
         tagline: |
-          A free game for Android developed using <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a>.
+          A free game for Android developed using <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a> and available on Google Play Store
 
       - title: Spunball
         link: "assets/images/spunball.png"
