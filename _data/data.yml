@@ -30,6 +30,8 @@ sidebar:
       - idiom: English
         level: Professional
 
+    AboutMe:
+
     interests:
       - item: Trekking
         description: ...
@@ -175,8 +177,8 @@ skills:
       - name: HTML & CSS
         level: Ability to edit and modify. Never did something from 0
 
-      - name: C (with lgcov and valgrind)
-        level: Two projects at university
+      - name: C 
+        level: Two projects at university. Used lgcov and valgrind
       
       - name: C++ (plus <a href="https://bitbucket.org/blaze-lib/blaze" target="_blank">Blazelib</a>)
         level: Two project at university + developed my thesis
