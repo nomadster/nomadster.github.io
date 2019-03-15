@@ -17,3 +17,20 @@
 
 </div><!--//interests-->
 {% endif %}
+
+{% assign aboutme = site.data.data.sidebar.aboutme %}
+{% if aboutme %}
+<div class="languages-container container-block">
+
+    <h2 class="container-block-title">
+      About Me
+    </h2>
+  
+    <ul class="list-unstyled interests-list">
+      <li>
+        {{aboutme}}
+      </li>
+    </ul>
+  
+</div>
+{% endif %}

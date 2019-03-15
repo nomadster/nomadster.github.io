@@ -30,7 +30,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-    AboutMe:
+    aboutme: Born in Pietrasanta (LU) on 10/11/1983, I currently work and live in Pisa.
 
     interests:
       - item: Trekking
@@ -165,6 +165,12 @@ skills:
       - name: Testing
         level: Huge fan
 
+      - name: Git 
+        level: 8 years
+      
+      - name: TSQL
+        level: 4 years
+
       - name: .NET/.NET Core, C# & VisualStudio
         level: 4 years
 
@@ -184,10 +190,13 @@ skills:
         level: Two project at university + developed my thesis using <a href="https://bitbucket.org/blaze-lib/blaze" target="_blank">Blazelib</a>
       
       - name: Linux and Bash
-        level: I've been thinkering with Linux since I was 14 (former slackware and gentoo lover)
+        level: I've been thinkering with Linux since I was 14 (former slackware, then gentoo, lover)
       
       - name: Java
         level: Two project at university + used it in some spare time project
+      
+      - name: Docker
+        level: Used in some spare time project
       
       
         
