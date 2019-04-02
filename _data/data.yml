@@ -30,7 +30,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-    aboutme: Born in Pietrasanta (LU) on 10/11/1983, currently working and living in Pisa. In my spare time I love to trek on the apuan alps, take pictures of small animals and insects and sail on my 1980s Bianchi and Cecchi Flying Dutchman.
+    aboutme: Born in Pietrasanta (LU) on 10/11/1983, currently working and living in Pisa. In my spare time I love to trek on the apuan alps, take pictures of landscapes, small animals and insects and sail on my 1980s Bianchi and Cecchi Flying Dutchman. I also love to play videogames.
           
 education:
     - degree: BSc in Computer Science
@@ -138,7 +138,7 @@ projects:
       - title: Camouman
         link: "https://play.google.com/store/apps/details?id=com.me.camuman"
         tagline: |
-          A free game for Android developed using <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a>.
+          A free game for Android developed using <a href="https://libgdx.badlogicgames.com/" target="_blank">LibGDX</a> and available on Google Play Store
 
       - title: Spunball
         link: "assets/images/spunball.png"
@@ -170,7 +170,7 @@ skills:
         level: 3 years
 
       - name: AngularJS
-        level: 4 years
+        level: 4 years of editing and maintaining the existing backoffice portal. Never bootstrapped from scratch
 
       - name: HTML & CSS
         level: Ability to edit and modify. Never did something from scratch
