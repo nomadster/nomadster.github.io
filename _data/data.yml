@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alessandro Lensi
-    tagline: Software Developer
+    tagline: Software Engineer II
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,8 +63,14 @@ education:
       time: 1997 - 2002
 
 experiences:
+    - role: Software Engineer II
+      time: 2019 - Present
+      company: Navionics, <a href="http://www.navionics.com" target="_blank">www.navionics.com</a>
+      details: |
+        Established in 1984, in Viareggio, Italy, Navionics® produces electronic charts for the leisure boating market.
+
     - role: Software Developer
-      time: 2015 - Present
+      time: 2015 - 2019
       company: Apparound, <a href="http://www.apparound.com" target="_blank">www.apparound.com</a>
       details: |        
         Apparound is a company that delivers B2B solutions to digitise the selling process.
