@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: alessandro.lensi@gmail.com
-    phone: +39 349 6132840
+   # phone: +39 349 6132840
     website: nomadster.github.io #do not add http://
     linkedin: alessandrolensi
     github: nomadster
@@ -59,7 +59,7 @@ education:
           - Introduction to Parallel Programming and Message Passing Paradigm.
 
     - degree: High School Diploma
-      university: Liceo Scientifico M. Buonarroti, Forte dei Marmi
+      university: Liceo Scientifico M. Buonarroti, Forte dei Marmi (LU)
       time: 1997 - 2002
 
 experiences:
