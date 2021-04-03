@@ -20,7 +20,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@nomadster'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 1765323/alessandro-l # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
@@ -30,7 +30,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-    aboutme: Born in Pietrasanta (LU) on 10/11/1983, currently working and living in Pisa. In my spare time I love to trek on the apuan alps, take pictures of landscapes, small animals and insects and sail on my 1980s Bianchi and Cecchi Flying Dutchman. I also love to play videogames.
+    aboutme: Born in Pietrasanta (LU) on 10/11/1983, currently living in Pisa. In my spare time I love to trek on the apuan alps, take pictures of landscapes, small animals and insects and sail on my 1980s Bianchi and Cecchi Flying Dutchman. I also love to play videogames.
           
 education:
     - degree: BSc in Computer Science
@@ -63,11 +63,20 @@ education:
       time: 1997 - 2002
 
 experiences:
-    - role: Software Engineer II
+    - role: Software Engineer 2
       time: 2019 - Present
       company: Navionics, <a href="http://www.navionics.com" target="_blank">www.navionics.com</a>
       details: |
-        Established in 1984, in Viareggio, Italy, Navionics® produces electronic charts for the leisure boating market.
+        Navionics, a Garmin® Ltd. company, develops and manufactures electronic navigation charts of marine areas, lakes, and rivers around the world for use in GPS chartplotters and mobile devices. Based in Viareggio, Italy, Navionics operates its US headquarters in Wareham, MA, and worldwide offices in the UK, India and Australia.
+
+        Technologies used:
+          - .NET Core
+          - C++
+          - Java
+          - Spring Boot
+          - Android SDK
+          - swift
+          - Docker
 
     - role: Software Developer
       time: 2015 - 2019
