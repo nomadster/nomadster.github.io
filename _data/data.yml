@@ -81,9 +81,7 @@ experiences:
     - role: Software Engineer 2
       time: 2019 - 2021
       company: Navionics, <a href="http://www.navionics.com" target="_blank">www.navionics.com</a>
-      details: |
-        Navionics, a Garmin® Ltd. company, develops and manufactures electronic navigation charts of marine areas, lakes, and rivers around the world for use in GPS chartplotters and mobile devices. Based in Viareggio, Italy, Navionics operates its US headquarters in Wareham, MA, and worldwide offices in the UK, India and Australia.
-
+      
     - role: Software Developer
       time: 2015 - 2019
       company: Apparound, <a href="http://www.apparound.com" target="_blank">www.apparound.com</a>
