@@ -84,15 +84,6 @@ experiences:
       details: |
         Navionics, a Garmin® Ltd. company, develops and manufactures electronic navigation charts of marine areas, lakes, and rivers around the world for use in GPS chartplotters and mobile devices. Based in Viareggio, Italy, Navionics operates its US headquarters in Wareham, MA, and worldwide offices in the UK, India and Australia.
 
-        Technologies used:
-          - .NET Core
-          - C++
-          - Java
-          - Spring Boot
-          - Android SDK
-          - swift
-          - Docker
-
     - role: Software Developer
       time: 2015 - 2019
       company: Apparound, <a href="http://www.apparound.com" target="_blank">www.apparound.com</a>
