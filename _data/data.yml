@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Alessandro Lensi
-    tagline: Software Engineer 2
+    tagline: Senior Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,8 +63,23 @@ education:
       time: 1997 - 2002
 
 experiences:
+    - role: Senior Software Engineer
+      time: 2021 - Present
+      company: Navionics, <a href="http://www.navionics.com" target="_blank">www.navionics.com</a>
+      details: |
+        Navionics, a Garmin® Ltd. company, develops and manufactures electronic navigation charts of marine areas, lakes, and rivers around the world for use in GPS chartplotters and mobile devices. Based in Viareggio, Italy, Navionics operates its US headquarters in Wareham, MA, and worldwide offices in the UK, India and Australia.
+
+        Technologies used:
+          - .NET Core
+          - C++
+          - Java
+          - Spring Boot
+          - Android SDK
+          - Docker
+          - SWIG
+
     - role: Software Engineer 2
-      time: 2019 - Present
+      time: 2019 - 2021
       company: Navionics, <a href="http://www.navionics.com" target="_blank">www.navionics.com</a>
       details: |
         Navionics, a Garmin® Ltd. company, develops and manufactures electronic navigation charts of marine areas, lakes, and rivers around the world for use in GPS chartplotters and mobile devices. Based in Viareggio, Italy, Navionics operates its US headquarters in Wareham, MA, and worldwide offices in the UK, India and Australia.
